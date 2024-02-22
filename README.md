@@ -1,9 +1,9 @@
-[![MasterHead](https://png.pngtree.com/background/20210715/original/pngtree-abstract-technology-circuit-board-and-codes-background-picture-image_1258388.jpg)]
+![MasterHead](https://png.pngtree.com/background/20210715/original/pngtree-abstract-technology-circuit-board-and-codes-background-picture-image_1258388.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
 <h3 align="center">I am a developer with a wide array of stacks and expertise.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mas1f&label=Profile%20views&color=0e75b6&style=flat" alt="mas1f" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/10785540?v=4" alt="mas1f" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mas1f" alt="mas1f" /></a> </p>
 
