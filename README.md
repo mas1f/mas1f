@@ -3,7 +3,7 @@
 <h3 align="center">I am a developer with a wide array of stacks and expertise.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/10785540?v=4" alt="mas1f" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/10785540?v=4" width="400px" alt="mas1f" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mas1f" alt="mas1f" /></a> </p>
 
